@@ -1,0 +1,313 @@
+# Translation of Plugins - WP Crontrol - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - WP Crontrol - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-16 19:05:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - WP Crontrol - Stable (latest release)\n"
+
+#. translators: 1: Date/time format for an input field, 2: PHP function name.
+#: wp-crontrol.php:986
+msgid "Format: %1$s or anything accepted by %2$s"
+msgstr "Format: %1$s or anything accepted by %2$s"
+
+#. translators: %s: An input field for specifying a date and time
+#: wp-crontrol.php:962
+msgid "At: %s"
+msgstr "At: %s"
+
+#: wp-crontrol.php:953
+msgid "Tomorrow"
+msgstr "Tomorrow"
+
+#: wp-crontrol.php:947
+msgid "Now"
+msgstr "Now"
+
+#: wp-crontrol.php:307 wp-crontrol.php:338
+msgid "You are not allowed to delete PHP cron events."
+msgstr "You are not allowed to delete PHP cron events."
+
+#: wp-crontrol.php:147 wp-crontrol.php:177
+msgid "You are not allowed to edit PHP cron events."
+msgstr "You are not allowed to edit PHP cron events."
+
+#. translators: 1, 2, and 3: Example values for an input field.
+#: wp-crontrol.php:930
+msgid "Use a JSON encoded array, e.g. %1$s, %2$s, or %3$s"
+msgstr "Use a JSON encoded array, e.g. %1$s, %2$s, or %3$s"
+
+#. translators: The PHP tag name
+#: wp-crontrol.php:903
+msgid "The opening %s tag must not be included."
+msgstr "The opening %s tag must not be included."
+
+#: src/schedule-list-table.php:105
+msgid "This custom schedule is in use and cannot be deleted"
+msgstr "This custom schedule is in use and cannot be deleted"
+
+#. Author URI of the plugin
+msgid "https://github.com/johnbillion/wp-crontrol/graphs/contributors"
+msgstr "https://github.com/johnbillion/wp-crontrol/graphs/contributors"
+
+#. Author of the plugin
+msgid "John Blackbourn & crontributors"
+msgstr "John Blackbourn & contributors"
+
+#. translators: 1: The name of the PHP cron event.
+#: src/event-list-table.php:270
+msgid "PHP Cron (%s)"
+msgstr "PHP Cron (%s)"
+
+#: wp-crontrol.php:1004
+msgid "You cannot add, edit, or delete PHP cron events because your user account does not have the ability to edit files."
+msgstr "You cannot add, edit, or delete PHP cron events because your user account does not have the ability to edit files."
+
+#. translators: %s Timezone name.
+#: wp-crontrol.php:977
+msgid "Timezone: %s"
+msgstr "Timezone: %s"
+
+#: wp-crontrol.php:923
+msgid "Arguments (optional)"
+msgstr "Arguments (optional)"
+
+#: wp-crontrol.php:912
+msgid "Event Name (optional)"
+msgstr "Event Name (optional)"
+
+#. translators: %s: A file name
+#: wp-crontrol.php:815
+msgid "Cron events trigger actions in your code. A cron event needs a corresponding action hook somewhere in code, e.g. the %1$s file in your theme."
+msgstr "Cron events trigger actions in your code. A cron event needs a corresponding action hook somewhere in code, e.g. the %1$s file in your theme."
+
+#: wp-crontrol.php:811
+msgid "Cron events trigger actions in your code. Enter the schedule of the event, as well as the PHP code to execute when the action is triggered."
+msgstr "Cron events trigger actions in your code. Enter the schedule of the event, as well as the PHP code to execute when the action is triggered."
+
+#. translators: 1: The name of the PHP constant that is set.
+#: wp-crontrol.php:605
+msgid "The %s constant is set to true."
+msgstr "The %s constant is set to true."
+
+#. translators: 1: The name of the PHP constant that is set.
+#: wp-crontrol.php:597
+msgid "The %s constant is set to true. WP-Cron spawning is disabled."
+msgstr "The %s constant is set to true. WP-Cron spawning is disabled."
+
+#. translators: 1: The HTTP response code.
+#: wp-crontrol.php:638
+msgid "Unexpected HTTP response code: %s"
+msgstr "Unexpected HTTP response code: %s"
+
+#: wp-crontrol.php:499 wp-crontrol.php:517
+msgid "Add Cron Schedule"
+msgstr "Add Cron Schedule"
+
+#: wp-crontrol.php:404 wp-crontrol.php:1101 wp-crontrol.php:1178
+msgid "Cron Events"
+msgstr "Cron Events"
+
+#: wp-crontrol.php:85 wp-crontrol.php:112
+msgid "You are not allowed to add new PHP cron events."
+msgstr "You are not allowed to add new PHP cron events."
+
+#. Description of the plugin
+msgid "WP Crontrol lets you view and control what's happening in the WP-Cron system."
+msgstr "WP Crontrol lets you view and control what's happening in the WP-Cron system."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-crontrol/"
+msgstr "https://en-gb.wordpress.org/plugins/wp-crontrol/"
+
+#. Plugin Name of the plugin
+#: src/event-list-table.php:342
+msgid "WP Crontrol"
+msgstr "WP Crontrol"
+
+#: wp-crontrol.php:1377
+msgid "now"
+msgstr "now"
+
+#. translators: 1: The number of seconds in an interval of time.
+#: wp-crontrol.php:1373
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s second"
+msgstr[1] "%s seconds"
+
+#. translators: 1: The number of minutes in an interval of time.
+#: wp-crontrol.php:1371
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s minute"
+msgstr[1] "%s minutes"
+
+#. translators: 1: The number of hours in an interval of time.
+#: wp-crontrol.php:1369
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s hour"
+msgstr[1] "%s hours"
+
+#. translators: 1: The number of days in an interval of time.
+#: wp-crontrol.php:1367
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s day"
+msgstr[1] "%s days"
+
+#. translators: 1: The number of weeks in an interval of time.
+#: wp-crontrol.php:1365
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s week"
+msgstr[1] "%s weeks"
+
+#. translators: 1: The number of months in an interval of time.
+#: wp-crontrol.php:1363
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s month"
+msgstr[1] "%s months"
+
+#. translators: 1: The number of years in an interval of time.
+#: wp-crontrol.php:1361
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s year"
+msgstr[1] "%s years"
+
+#: src/event-list-table.php:199
+msgid "Run Now"
+msgstr "Run Now"
+
+#: src/event-list-table.php:186
+msgid "Edit"
+msgstr "Edit"
+
+#: wp-crontrol.php:897 src/event-list-table.php:291
+msgid "PHP Code"
+msgstr "PHP Code"
+
+#: wp-crontrol.php:124 wp-crontrol.php:193 src/event-list-table.php:272
+msgid "PHP Cron"
+msgstr "PHP Cron"
+
+#: src/event-list-table.php:321 src/event-list-table.php:354
+msgid "None"
+msgstr "None"
+
+#: wp-crontrol.php:994 src/event-list-table.php:99
+msgid "Recurrence"
+msgstr "Recurrence"
+
+#: wp-crontrol.php:941
+msgid "Next Run"
+msgstr "Next Run"
+
+#: wp-crontrol.php:917
+msgid "Hook Name"
+msgstr "Hook Name"
+
+#: src/event-list-table.php:92
+msgid "Arguments"
+msgstr "Arguments"
+
+#: wp-crontrol.php:875 wp-crontrol.php:1186
+msgid "Add Cron Event"
+msgstr "Add Cron Event"
+
+#: wp-crontrol.php:873 wp-crontrol.php:1190
+msgid "Add PHP Cron Event"
+msgstr "Add PHP Cron Event"
+
+#. translators: 1: Error message text.
+#: wp-crontrol.php:712
+msgid "There was a problem spawning a call to the WP-Cron system on your site. This means WP-Cron events on your site may not work. The problem was: %s"
+msgstr "There was a problem spawning a call to the WP-Cron system on your site. This means WP-Cron events on your site may not work. The problem was: %s"
+
+#: wp-crontrol.php:513
+msgid "Display name"
+msgstr "Display name"
+
+#: wp-crontrol.php:509
+msgid "Interval (seconds)"
+msgstr "Interval (seconds)"
+
+#: wp-crontrol.php:505
+msgid "Internal name"
+msgstr "Internal name"
+
+#: wp-crontrol.php:500
+msgid "Adding a new cron schedule will allow you to schedule events that re-occur at the given interval."
+msgstr "Adding a new cron schedule will allow you to schedule events that re-occur at the given interval."
+
+#: src/schedule-list-table.php:114 src/event-list-table.php:122
+#: src/event-list-table.php:212
+msgid "Delete"
+msgstr "Delete"
+
+#: src/schedule-list-table.php:71
+msgid "Display Name"
+msgstr "Display Name"
+
+#: src/schedule-list-table.php:70
+msgid "Interval"
+msgstr "Interval"
+
+#: src/schedule-list-table.php:69
+msgid "Name"
+msgstr "Name"
+
+#: wp-crontrol.php:403 wp-crontrol.php:490 wp-crontrol.php:1182
+msgid "Cron Schedules"
+msgstr "Cron Schedules"
+
+#. translators: 1: The name of the cron schedule.
+#: wp-crontrol.php:463
+msgid "Cron schedule not added because there was a problem parsing %s."
+msgstr "Cron schedule not added because there was a problem parsing %s."
+
+#: wp-crontrol.php:372
+msgid "You are not allowed to run cron events."
+msgstr "You are not allowed to run cron events."
+
+#: wp-crontrol.php:267 wp-crontrol.php:299 wp-crontrol.php:331
+msgid "You are not allowed to delete cron events."
+msgstr "You are not allowed to delete cron events."
+
+#: wp-crontrol.php:252
+msgid "You are not allowed to delete cron schedules."
+msgstr "You are not allowed to delete cron schedules."
+
+#: wp-crontrol.php:209
+msgid "You are not allowed to add new cron schedules."
+msgstr "You are not allowed to add new cron schedules."
+
+#: wp-crontrol.php:140
+msgid "You are not allowed to edit cron events."
+msgstr "You are not allowed to edit cron events."
+
+#: wp-crontrol.php:80
+msgid "You are not allowed to add new cron events."
+msgstr "You are not allowed to add new cron events."
+
+#: src/schedule.php:65 src/event-list-table.php:417
+msgid "Non-repeating"
+msgstr "Non-repeating"
+
+#. translators: 1: The name of the cron event.
+#: wp-crontrol.php:1054
+msgid "Failed to the delete the cron event %s."
+msgstr "Failed to the delete the cron event %s."
+
+#. translators: 1: The name of the cron event.
+#: wp-crontrol.php:1060
+msgid "Failed to the execute the cron event %s."
+msgstr "Failed to the execute the cron event %s."

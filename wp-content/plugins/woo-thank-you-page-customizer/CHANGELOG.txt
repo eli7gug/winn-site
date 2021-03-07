@@ -1,0 +1,61 @@
+/**1.0.5.8 - 2020.08.12**/
+- Added: Show coupon gift on the My Account
+- Updated: Compatibility with WP5.5 and WC4.3
+- Fixed: Display 'Order again'
+
+/**1.0.5.7 - 2020.04.23**/
+- Update: support class
+
+/**1.0.5.6 - 2020.03.23**/
+- Update: support class
+
+**1.0.5.5 - 2019.11.18**
+- Fixed: jQuery with WP 5.3
+
+**1.0.5.4 - 2019.11.16**
+- Updated: Sanitize input data
+
+/**1.0.5.2 - 2019.10.07**/
+- Updated: Change premium version url
+
+/**1.0.5.1 - 2019.05.10**/
+- Updated: Change plugin name
+- Updated: Change premium version url
+
+/**1.0.5 - 2019.04.05**/
+- Fixed: Email settings not saving
+- Fixed: Customize error when content contains UTF-8 characters
+
+/**1.0.4.1 - 2019.04.04**/
+- Updated: Make admin notices dismissible
+
+**1.0.4 - 2019.02.26**
+- Fixed: Customize conflict with some themes
+- Fixed: Some social links not working
+- Fixed: Error including google api twice in customize mode
+- Updated: Use other hook to show content
+- Updated: Change google marker
+- Updated: Move google address to customize
+- Updated: Class support
+- Added: Customize scissors color
+- Added: Option to send coupon email
+- Added: Preview emails
+
+**1.0.3 - 2018.12.14**
+- Fixed: Text editor with shortcodes
+- Added: Button copy coupon code
+- Added: View history received coupon in Account settings/orders
+- Updated: Move some google map options to customize
+
+**1.0.2 - 2018.11.20**
+- Updated: Data format
+- Updated: Dynamic add row
+- Updated: Layout customizer
+- Added: Shortcodes
+- Optimized: UI, UX
+
+**1.0.1 - 2018.11.10**
+- Fixed: Class support
+
+/*1.0.0  - 2018.11.09*/
+- Release version 1.0.0

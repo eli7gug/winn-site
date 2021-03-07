@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome v2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-09 11:16+0000\n"
+"PO-Revision-Date: 2021-02-09 11:16+0000\n"
+"Language-Team: עִבְרִית\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: ענבל משה\n"
+"Language: he_IL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Version: 2.4.3; wp-5.4.4"
+
+#: functions.php:24 functions.php:215 woocommerce/cart/cart.php:103
+msgid "SKU"
+msgstr "מק\"ט"
+
+#: functions.php:96 functions.php:184 functions.php:698
+#: woocommerce/single-product/add-to-cart/simple.php:53
+msgid "Added "
+msgstr "הזמנת "
+
+#: functions.php:96 functions.php:184 functions.php:699
+#: woocommerce/single-product/add-to-cart/simple.php:53
+msgid " units to cart"
+msgstr " יח' "
+
+#: functions.php:101
+msgid "Add to Cart"
+msgstr "הוספה לסל"
+
+#: functions.php:127
+msgid "Inventory"
+msgstr "מלאי"
+
+#: functions.php:127
+msgid "In Stock"
+msgstr "קיים במלאי"
+
+#: functions.php:133 woocommerce/cart/cart.php:114
+msgid "Total Price"
+msgstr "סה\"כ מחיר"
+
+#: functions.php:217
+msgid "Barcode"
+msgstr "ברקוד"
+
+#: functions.php:377
+msgid "Due Date"
+msgstr "תאריך אספקה מבוקש"
+
+#: functions.php:479 functions.php:563
+msgid "Job Title"
+msgstr "תפקיד"
+
+#: functions.php:540
+msgid "Price including VAT"
+msgstr "מחיר יח' כ. מע\"מ"
+
+#: functions.php:545 woocommerce/cart/cart.php:110
+#: woocommerce/cart/cart.php:258 woocommerce/cart/cart.php:364
+msgid "Price"
+msgstr "מחיר יח'"
+
+#: functions.php:582
+msgid "Phone"
+msgstr "טלפון נייד"
+
+#: functions.php:606
+msgid "P.O."
+msgstr "ת.ד."
+
+#: functions.php:628
+msgid "Shipping to User Address"
+msgstr "משלוח לכתובת הלקוח"
+
+#: functions.php:645
+msgid "Hi "
+msgstr "היי "
+
+#: functions.php:645
+msgid ""
+", here are all the details of your account: orders you placed on the site "
+"and personal details. If necessary, option to update them easily"
+msgstr ""
+", כאן מרוכזים כל הפרטי החשבון שלך: הזמנות שביצעת באתר ופרטים אישיים. במידת "
+"הצורך, באפשרותך לעדכן אותם בקלות."
+
+#: functions.php:697 functions.php:828
+msgid "Update Cart"
+msgstr "עדכן סל"
+
+#: functions.php:832
+msgid "Pcs added"
+msgstr ""
+
+#: functions.php:836
+msgid "Order Notes"
+msgstr "הערות להזמנה"
+
+#: functions.php:844
+msgid "No products added to the wishlist"
+msgstr "אף מוצר לא התווסף לרשימת המשאלות"
+
+#: functions.php:859
+msgid "My Wishlist"
+msgstr "רשימת המשאלות שלי"
+
+#: functions.php:972
+msgid "Packs"
+msgstr "אריזות "
+
+#: woocommerce/cart/cart-totals.php:41 woocommerce/cart/cart-totals.php:42
+#: woocommerce/cart/cart.php:394 woocommerce/checkout/review-order.php:61
+#: woocommerce/checkout/review-order.php:62
+msgid "Total Before VAT"
+msgstr "סה\"כ מחיר לפני מע\"מ"
+
+#: woocommerce/cart/cart-totals.php:46 woocommerce/cart/cart-totals.php:47
+#: woocommerce/cart/cart.php:400 woocommerce/checkout/review-order.php:71
+#: woocommerce/checkout/review-order.php:72
+msgid "Total After VAT"
+msgstr "סה\"כ מחיר כולל מע\"מ"
+
+#: woocommerce/cart/cart-totals.php:120
+msgid "Total count"
+msgstr "סה\"כ כמות "
+
+#: woocommerce/cart/cart-totals.php:124 woocommerce/cart/cart-totals.php:125
+#: woocommerce/checkout/review-order.php:23
+#: woocommerce/checkout/review-order.php:24
+msgid "Total number of lines in order"
+msgstr "סה\"כ מספר השורות בהזמנה "
+
+#: woocommerce/cart/cart-totals.php:138 woocommerce/cart/cart-totals.php:139
+#: woocommerce/checkout/review-order.php:37
+#: woocommerce/checkout/review-order.php:38
+msgid "Total number of items in order"
+msgstr "סה\"כ מספר המוצרים בהזמנה "
+
+#: woocommerce/cart/cart.php:106
+msgid "Total Quantity"
+msgstr "סה\"כ כמות"
+
+#: woocommerce/cart/cart.php:137 woocommerce/cart/cart.php:415
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:151
+msgid "Total Quantity :"
+msgstr "סה\"כ כמות"
+
+#: woocommerce/cart/cart.php:181
+msgid "Unit Price:"
+msgstr "מחיר ליחידה:"
+
+#: woocommerce/cart/cart.php:190
+msgid "Price incl. Discount: "
+msgstr "מחיר כולל הנחה:"
+
+#: woocommerce/cart/cart.php:205
+msgid "Total incl. VAT :"
+msgstr "סה\"כ כולל מע\"מ"
+
+#: woocommerce/cart/cart.php:223 woocommerce/cart/cart.php:456
+msgid "Add Comment"
+msgstr ""
+
+#: woocommerce/cart/cart.php:244 woocommerce/cart/cart.php:466
+#: woocommerce/cart/cart.php:466
+msgid "Update cart"
+msgstr "עדכון עגלה"
+
+#: woocommerce/cart/cart.php:255 woocommerce/cart/cart.php:292
+msgid "Product"
+msgstr "מוצר"
+
+#: woocommerce/cart/cart.php:257 woocommerce/cart/cart.php:341
+msgid "Quantity"
+msgstr "כמות "
+
+#: woocommerce/cart/cart.php:259 woocommerce/cart/cart.php:372
+msgid "Discount"
+msgstr "הנחה"
+
+#: woocommerce/cart/cart.php:260
+msgid "Price after discount"
+msgstr "מ. אחרי הנחה "
+
+#: woocommerce/cart/cart.php:261
+msgid "Total before VAT"
+msgstr "סה\"כ מ.לפני מע\"מ"
+
+#: woocommerce/cart/cart.php:262
+msgid "Total after VAT"
+msgstr "סה\"כ מ.כולל מע\"מ"
+
+#: woocommerce/cart/cart.php:379
+msgid "Product price after Discount"
+msgstr "מחיר מוצר אחרי הנחה "
+
+#: woocommerce/cart/cart.php:428
+msgid "Comment line"
+msgstr ""
+
+#: woocommerce/cart/cart.php:438
+msgid "Show packs "
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:66
+#: woocommerce/checkout/review-order.php:67
+msgid "VAT"
+msgstr "מע\"ם"
+
+#: woocommerce/checkout/thankyou.php:96
+msgid "Due Date:"
+msgstr "זמן אספקה"
+
+#: woocommerce/checkout/thankyou.php:102
+msgid "Shipping Address:"
+msgstr "כתובת למשלוח "
+
+#: woocommerce/myaccount/my-address.php:84
+msgid "Login Detail"
+msgstr "פרטי התחברות"
+
+#: woocommerce/myaccount/my-address.php:92
+msgid "Payment Detail"
+msgstr "פרטי התשלום שלי"
+
+#: woocommerce/myaccount/my-address.php:98
+msgid "Newsletter Detail"
+msgstr "הרשמה לניוזלטר"
+
+#. Name of the theme
+msgid "Flatsome Child"
+msgstr ""
+
+#. Description of the theme
+msgid "This is a child theme for Flatsome Theme"
+msgstr ""
+
+#. Author of the theme
+msgid "UX Themes"
+msgstr ""

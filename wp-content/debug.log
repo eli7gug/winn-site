@@ -1,0 +1,58 @@
+[27-Aug-2020 09:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_enqueue_js() in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/themes/flatsome-child/functions.php:81
+Stack trace:
+#0 /home/winnussl/domains/winn.ussl.shop/public_html/wp-includes/class-wp-hook.php(287): thembay_shop_page_quantity_add_to_cart_handler('')
+#1 /home/winnussl/domains/winn.ussl.shop/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/winnussl/domains/winn.ussl.shop/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/winnussl/domains/winn.ussl.shop/public_html/wp-settings.php(540): do_action('init')
+#4 /home/winnussl/domains/winn.ussl.shop/public_html/wp-config.php(78): require_once('/home/winnussl/...')
+#5 /home/winnussl/domains/winn.ussl.shop/public_html/wp-load.php(37): require_once('/home/winnussl/...')
+#6 /home/winnussl/domains/winn.ussl.shop/public_html/wp-blog-header.php(13): require_once('/home/winnussl/...')
+#7 /home/winnussl/domains/winn.ussl.shop/public_html/index. in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/themes/flatsome-child/functions.php on line 81
+[27-Aug-2020 09:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_enqueue_js() in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/themes/flatsome-child/functions.php:81
+Stack trace:
+#0 /home/winnussl/domains/winn.ussl.shop/public_html/wp-includes/class-wp-hook.php(287): thembay_shop_page_quantity_add_to_cart_handler('')
+#1 /home/winnussl/domains/winn.ussl.shop/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/winnussl/domains/winn.ussl.shop/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/winnussl/domains/winn.ussl.shop/public_html/wp-settings.php(540): do_action('init')
+#4 /home/winnussl/domains/winn.ussl.shop/public_html/wp-config.php(78): require_once('/home/winnussl/...')
+#5 /home/winnussl/domains/winn.ussl.shop/public_html/wp-load.php(37): require_once('/home/winnussl/...')
+#6 /home/winnussl/domains/winn.ussl.shop/public_html/wp-cron.php(44): require_once('/home/winnussl/...')
+#7 {main}
+  thrown in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/themes/flatsome-child/functions.php on line 81
+[27-Aug-2020 09:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_enqueue_js() in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/themes/flatsome-child/functions.php:81
+Stack trace:
+#0 /home/winnussl/domains/winn.ussl.shop/public_html/wp-includes/class-wp-hook.php(287): thembay_shop_page_quantity_add_to_cart_handler('')
+#1 /home/winnussl/domains/winn.ussl.shop/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/winnussl/domains/winn.ussl.shop/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/winnussl/domains/winn.ussl.shop/public_html/wp-settings.php(540): do_action('init')
+#4 /home/winnussl/domains/winn.ussl.shop/public_html/wp-config.php(78): require_once('/home/winnussl/...')
+#5 /home/winnussl/domains/winn.ussl.shop/public_html/wp-load.php(37): require_once('/home/winnussl/...')
+#6 /home/winnussl/domains/winn.ussl.shop/public_html/wp-blog-header.php(13): require_once('/home/winnussl/...')
+#7 /home/winnussl/domains/winn.ussl.shop/public_html/index. in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/themes/flatsome-child/functions.php on line 81
+[02-Oct-2020 09:52:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/themes/flatsome-child/woocommerce/cart/cart.php on line 462
+[02-Oct-2020 09:53:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/themes/flatsome-child/woocommerce/cart/cart.php on line 458
+[02-Oct-2020 09:53:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/themes/flatsome-child/woocommerce/cart/cart.php on line 458
+[02-Oct-2020 09:54:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/themes/flatsome-child/woocommerce/cart/cart.php on line 458
+[02-Oct-2020 09:56:50 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:56:50 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:56:50 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:56:50 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:57:41 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:57:41 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:57:41 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:57:41 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:57:48 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:57:48 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:57:48 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[02-Oct-2020 09:57:48 UTC] PHP Notice:  Undefined index: product in /home/winnussl/domains/winn.ussl.shop/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1708
+[07-Mar-2021 07:35:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_checkout() in C:\Users\Elisheva\Desktop\wamp64\www\winn-new\wp-content\themes\flatsome-child\functions.php:361
+Stack trace:
+#0 C:\Users\Elisheva\Desktop\wamp64\www\winn-new\wp-includes\class-wp-hook.php(287): enabling_date_picker('')
+#1 C:\Users\Elisheva\Desktop\wamp64\www\winn-new\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Elisheva\Desktop\wamp64\www\winn-new\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\Users\Elisheva\Desktop\wamp64\www\winn-new\wp-includes\script-loader.php(2294): do_action('wp_enqueue_scri...')
+#4 C:\Users\Elisheva\Desktop\wamp64\www\winn-new\wp-includes\class-wp-hook.php(287): wp_enqueue_scripts('')
+#5 C:\Users\Elisheva\Desktop\wamp64\www\winn-new\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\Elisheva\Desktop\wamp64\www\winn-new\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 C:\Users\Elisheva\Desktop\wamp64\www\winn-new\wp-includes\general in C:\Users\Elisheva\Desktop\wamp64\www\winn-new\wp-content\themes\flatsome-child\functions.php on line 361
+[07-Mar-2021 07:37:41 UTC] שגיאת מסד נתונים Table 'winn-new.wp_postmeta' doesn't exist לשאילתה SELECT post_id, meta_key, meta_value FROM wp_postmeta WHERE post_id IN (3) ORDER BY meta_id ASC נוצרה על ידי do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, WP_Privacy_Policy_Content::text_change_check, get_post_meta, get_metadata, update_meta_cache

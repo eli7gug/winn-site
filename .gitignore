@@ -1,0 +1,52 @@
+# File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
+
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+/flatesome/
+/twentyseventeen/
+/twentynineteen/
+
+
+wp-config
+*.htaccess
+/activetrail_woocommerce_1.0/
+/advanced-dynamic-pricing-for-woocommerce/
+/advanced-product-labels-for-woocommerce/
+/askimet/
+/all-in-one-wp-migration/
+/all-in-one-wp-migration-unlimited-extension/
+/AT-woocommerce_webhook-helper/
+/bulk-delete/
+/contact-form-7/
+/loco-translate/
+/media-cleaner/
+/megamenu/
+/product-import-export-for-woo/
+/woo-checkout-field-editor-pro/
+/woocommerce/
+/woo-product-filter/
+/woosidebars/
+/woo-thank-you-page-customizer/
+/woosidebars/
+/yith-woocommerce-wishlist/
+
+
+
+
+
+
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+
+# Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
+

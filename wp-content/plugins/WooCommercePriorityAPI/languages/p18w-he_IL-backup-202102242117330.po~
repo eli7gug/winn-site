@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Priority Woocommerce API\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-09 21:56+0000\n"
+"PO-Revision-Date: 2021-01-09 21:57+0000\n"
+"Last-Translator: כץ\n"
+"Language-Team: עִבְרִית\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.4.4"
+
+#: includes/front/my-account/obligo.php:50
+#: includes/front/my-account/obligo.php:60
+#, fuzzy
+msgid "Obligo"
+msgstr "אובליגו"
+
+#: includes/front/my-account/obligo.php:169
+msgid "Open Payment"
+msgstr "תשלומים פתוחים"
+
+#: includes/front/my-account/obligo.php:172
+msgid "BALDATE"
+msgstr "תאריך למאזן"
+
+#: includes/front/my-account/obligo.php:172
+msgid "FNCNUM"
+msgstr "מספר תנועת היומן"
+
+#: includes/front/my-account/obligo.php:172
+msgid "IVNUM"
+msgstr "חשבונית"
+
+#: includes/front/my-account/obligo.php:172
+msgid "DETAILS"
+msgstr "פרטים"
+
+#: includes/front/my-account/obligo.php:172
+msgid "SUM1"
+msgstr "סה\"כ"
+
+#. Name of the plugin
+msgid "Priority Woocommerce API"
+msgstr ""
+
+#. Description of the plugin
+msgid "Priority Woocommerce API extension"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.roi-holdings.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Roi Holdings"
+msgstr ""
+
+msgid "CUSTNAME"
+msgstr "לקוח"
+
+msgid "CUSTDES"
+msgstr "שם לקוח"
+
+msgid "ORD_DEBIT"
+msgstr "הזמנות פתוחות"
+
+msgid "DOC_DEBIT"
+msgstr "תעודות שלא חויבו"
+
+msgid "PROJ_DEBIT"
+msgstr "דווחים לפרויקט"
+
+msgid "IV_DEBIT"
+msgstr "חשבוניות מס זמניות"
+
+msgid "ACC_DEBIT"
+msgstr "חוב פתוח"
+
+msgid "CHEQUE_DEBIT"
+msgstr "צ'קים שלא נפרעו"
+
+msgid "CODE"
+msgstr "מטבע "
+
+msgid "CREDIT"
+msgstr "סה\"כ אשראי"
+
+msgid "MAX_CREDIT"
+msgstr "תיקרת האשראי"
+
+msgid "CREDIT_REST"
+msgstr "יתרת אשראי"
+
+msgid "OBLIGO"
+msgstr "סה\"כ אובליגו"
+
+msgid "MAX_OBLIGO"
+msgstr "תיקרת האובליגו"
+
+msgid "OBLIGO_REST"
+msgstr "יתרת אובליגו"
+
+msgid "MAX_CREDIT_ENV"
+msgstr "אשראי רב חברתי"
+
+msgid "MAX_OBLIGO_ENV"
+msgstr "אובליגו רב חברתי"
+
+msgid "OBCODE"
+msgstr "מטבע אשראי"
+
+msgid "CURDATE"
+msgstr "תאריך החישוב"
+
+msgid "AGENTCODE"
+msgstr "מספר סוכן"
+
+msgid "AGENTNAME"
+msgstr "שם סוכן"
+
+msgid "CUST"
+msgstr ""
+
+msgid "Login to see prices"
+msgstr "התחבר כדי לראות מחירים"
